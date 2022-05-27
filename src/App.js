@@ -41,7 +41,7 @@ const App = () => {
             style={{ color: "white", textAlign: "center" }}
           >
             Crypt-Dash <br />
-            All rights reserved.
+            All rights reserved
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
