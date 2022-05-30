@@ -40,8 +40,9 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Crypt-Dash <br />
-            All rights reserved
+            <Link to="/"> Crypt-Dash</Link>
+            <br />
+            All Rights Reserved.
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
