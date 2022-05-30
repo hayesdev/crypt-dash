@@ -14,7 +14,7 @@ const News = ({ simplified }) => {
 
   const demoImage = 'https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News'
 
-  if(!cryptoNews?.value) return 'Loading...'
+  if (!cryptoNews?.value) return 'Loading...'
 
   return (
     <Row gutter={[24,24]} >
